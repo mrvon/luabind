@@ -6,3 +6,7 @@ function hello(str)
 	return #str
 end
 
+function trans(...)
+    return ...
+end
+
